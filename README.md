@@ -44,6 +44,7 @@ kunjungi tautan berikut untuk proses instalasinya:[https://pypi.org/project/pip]
 
 - Kemudian, kodingan menggunakan library pandas untuk membuat dataframe dari list yang didapat dan menyimpannya dalam variabel 'df'. Kemudian kodingan mencetak dataframe tersebut, sehingga kita dapat melihat informasi lowongan kerja yang diambil dari situs web Glints.
 
+## Output
 ![Screenshot (127)](https://user-images.githubusercontent.com/115714443/213199071-25eb4ce5-b621-444b-8f09-a7225031479f.png)
 
 # TERIMAKASI
